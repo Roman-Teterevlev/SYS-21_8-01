@@ -18,7 +18,11 @@ Git
 13. Сделайте git push origin master.
 14. В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 ### Ответ:
-
+<img width="960" alt="8-01_1 1" src="https://github.com/Roman-Teterevlev/SYS-21_8-01/assets/132853752/0e4bb561-ef45-4869-a517-d72b0e1cba16">
+<img width="960" alt="8-01_1 2" src="https://github.com/Roman-Teterevlev/SYS-21_8-01/assets/132853752/661a0cfe-8c9a-4fec-98f6-99332582189d">
+<img width="960" alt="8-01_1 3" src="https://github.com/Roman-Teterevlev/SYS-21_8-01/assets/132853752/ba8067cf-288b-4600-b357-e021c811ad25">
+<img width="960" alt="8-01_1 4" src="https://github.com/Roman-Teterevlev/SYS-21_8-01/assets/132853752/3616fb71-48d5-4670-a4b7-5251f7e34078">
+https://github.com/Roman-Teterevlev/sys-pattern-homework_8-01/blob/main/README.md
 
 ### Задание 2
 Что нужно сделать:
