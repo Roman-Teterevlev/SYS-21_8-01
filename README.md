@@ -33,7 +33,8 @@ https://github.com/Roman-Teterevlev/sys-pattern-homework_8-01/blob/main/README.m
 4. Сделайте коммит и пуш.
 5. В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 ### Ответ:
-
+<img width="960" alt="8-01_2 1" src="https://github.com/Roman-Teterevlev/SYS-21_8-01/assets/132853752/3807d622-e90c-4120-918a-58aa76f969eb">
+https://github.com/Roman-Teterevlev/sys-pattern-homework_8-01/blob/main/.gitignore
 
 ### Задание 3
 Что нужно сделать:
