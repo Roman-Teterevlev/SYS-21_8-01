@@ -47,7 +47,8 @@ https://github.com/Roman-Teterevlev/sys-pattern-homework_8-01/blob/main/.gitigno
 6. В качестве ответа прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
 ### Ответ:
 <img width="960" alt="8-01_3 1" src="https://github.com/Roman-Teterevlev/SYS-21_8-01/assets/132853752/8d7eb7ce-d274-4d59-a24d-25333a2a93bd">
-<img width="880" alt="8-01_3 2" src="https://github.com/Roman-Teterevlev/SYS-21_8-01/assets/132853752/c99e65c6-d545-4343-a6ab-60ebfbb3fb95">
+<img width="868" alt="8-01_3 2" src="https://github.com/Roman-Teterevlev/SYS-21_8-01/assets/132853752/bfb6c9c9-3c52-4096-b790-5d2c9b471164">
+
 https://github.com/Roman-Teterevlev/sys-pattern-homework_8-01/network
 
 *Дополнительные задания (со звёздочкой)
